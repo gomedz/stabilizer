@@ -1,0 +1,17 @@
+{
+  "name": "stabilizer-swap-bot",
+  "version": "1.0.0",
+  "description": "Automated cyclic swap bot for Stabilizer Finance (Arbitrum Sepolia)",
+  "main": "bot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "keywords": ["web3", "defi", "arbitrum", "stabilizer", "bot"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5"
+  }
+}
